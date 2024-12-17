@@ -1,4 +1,4 @@
-##Getting Started:
+## Getting Started:
 
 Navigate to app folder, install dependencies and run the app
 ```
